@@ -1,5 +1,5 @@
 <div id="top" align="center">
-  <img src="https://img.shields.io/github/contributors/howstrangeoficial/flask-deploy?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/howstrangeoficial/flask-deploy-heroku?style=for-the-badge" />
   <img src="https://img.shields.io/discord/928742162219270175?color=blue&label=Discord&style=for-the-badge" />
 
   <br />
@@ -29,7 +29,7 @@ Here I am teaching you how to make a python application on the web using the inc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/howstrangeoficial/flask-deploy.git
+   git clone https://github.com/howstrangeoficial/flask-deploy-heroku.git
    ```
 2. Install pip packages
    ```sh
